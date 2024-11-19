@@ -20,7 +20,7 @@ const Home = () => {
           <br />
           I'm <span className='home__title-color'>Oxilia</span>
           <br />
-          IT Graduate
+          Information System Student
         </h1>
         <a href='#about' className='button'>
           More
